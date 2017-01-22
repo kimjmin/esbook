@@ -2,8 +2,8 @@
 
 ### 1.1 Elastic Stack 소개
 
-1. [ ] 1.1.1 Elasticsearch
-  - [ ] 오픈소스 (open source)
+1. 1.1.1 Elasticsearch [ ]
+  - [x] 오픈소스 (open source)
   - 분산 시스템 (distributed)
   - 실시간 분석 (real-time)
   - 전문(full text) 검색 엔진
