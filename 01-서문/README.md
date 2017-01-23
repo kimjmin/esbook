@@ -3,13 +3,13 @@
 ### 1.1 Elastic Stack 소개
 
 1. 1.1.1 Elasticsearch [ ]
-  - [x] 오픈소스 (open source)
-  - 분산 시스템 (distributed)
-  - 실시간 분석 (real-time)
-  - 전문(full text) 검색 엔진
-  - JSON 문서 기반
-  - RESTFul API
-  - 멀티테넌시 (multitenancy) 
+  오픈소스 (open source)
+  분산 시스템 (distributed)
+  실시간 분석 (real-time)
+  전문(full text) 검색 엔진
+  JSON 문서 기반
+  RESTFul API
+  멀티테넌시 (multitenancy) 
 2. 1.1.2 Logstash
 3. 1.1.3 Kibana
 4. 1.1.4 Beats
