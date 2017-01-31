@@ -4,5 +4,5 @@
 [목차 및 진척도](https://github.com/kimjmin/esbook/issues/2)
 
 예제 파일
-[01 - 서문](01-서문)
-[02 - Elasticsearch 시작하기](02-Elasticsearch 시작하기)
+- [01 - 서문](01-서문)
+- [02 - Elasticsearch 시작하기](02-Elasticsearch 시작하기)

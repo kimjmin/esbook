@@ -1,7 +1,7 @@
-# 2. Elasticsearch 시작하기
-## 2.1 데이터 색인
-## 2.2 JSON 문서와 REST API
-## 2.3 설치 및 실행
+## 2. Elasticsearch 시작하기
+### 2.1 데이터 색인
+### 2.2 JSON 문서와 REST API
+### 2.3 설치 및 실행
 ```
 $ bin/elasticsearch
 [2017-02-01T07:21:48,096][INFO ][o.e.n.Node               ] [] initializing ...
