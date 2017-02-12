@@ -77,12 +77,12 @@ LICENSE.txt    NOTICE.txt     README.textile bin            config         data
 lib            logs           modules        plugins
 ```
 
-###### <start.sh> 파일의 내용
+###### start.sh 파일의 내용
 ```
 bin/elasticsearch -d -p es.pid
 ```
 
-###### <stop.sh> 파일의 내용
+###### stop.sh 파일의 내용
 ```
 kill `cat es.pid`
 ```
